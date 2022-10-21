@@ -1,0 +1,21 @@
+@import './content';
+@import './window';
+@import './footer';
+@import './bar';
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: #F4F5F7;
+    font-family: 'Poppins';
+    margin: 8px 32px 0 32px;
+}

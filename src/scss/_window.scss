@@ -1,0 +1,34 @@
+.window {
+    width: 22%;
+    float: left;
+    background: #FFFF;
+    border-radius: 1.2rem;
+}
+
+.header{
+    align-items: center;
+    margin: 2.2rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.announcment{
+    background: rgb(101, 74, 74);
+    border-radius: 1.2rem;
+    margin: 1rem;
+    padding: 1rem;
+    float: left;
+}
+
+hr {
+    color: #F4F5F7;
+}
+
+ul {
+    padding: 2.2rem;
+    list-style-type: none;
+}
+
+.tasksList{
+    line-height: 1.8rem;
+}
